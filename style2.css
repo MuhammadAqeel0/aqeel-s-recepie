@@ -1,0 +1,30 @@
+.p{
+    font-weight: bold;
+    font-family:sans-serif;
+}
+h1{
+text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+color: #3366cc;
+}
+h6{
+    font-family:sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 1pt;
+    color: #3366cc;
+}
+p{
+    font-family:sans-serif;
+}
+h2{
+    color: #3366cc;
+}
+.colorp{
+    color: #3366cc;
+    letter-spacing: -1pt;
+}
+.box{
+    background-color: rgba(0, 0, 0, 0.1);
+}
+body{
+    background-color: blanchedalmond;
+}
